@@ -17,6 +17,8 @@ import org.springframework.web.servlet.handler.SimpleMappingExceptionResolver;
 
 // crap this is my new comment. yeiiii
 
+// another stupid comment
+
 /**
  * Test class for {@link CrashController}
  *
